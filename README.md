@@ -10,6 +10,15 @@ If you want to contribute to this list, send a pull request. All contributors wi
 
 You can find all the books listed below in [**book**](/book) folder of this repo:
 
+* Building the Web of Things - With examples in Node.js and Raspberry Pi [[Download]](/book/Building%20the%20Web%20of%20Things%20-%20With%20examples%20in%20Node.js%20and%20Raspberry%20Pi.pdf)
+* Exploring Raspberry Pi - Interfacing to the Real World with Embedded Linux [[Download]](/book/Exploring%20Raspberry%20Pi%20-%20Interfacing%20to%20the%20Real%20World%20with%20Embedded%20Linux.pdf)
+* Getting Started with Raspberry Pi [[Download]](/book/Getting%20Started%20with%20Raspberry%20Pi.pdf)
+* Hacking Raspberry Pi [[Download]](/book/Hacking%20Raspberry%20Pi.epub)
+* Make - Sensors - A Hands-On Primer for Monitoring the Real World with Arduino and Raspberry Pi [[Download]](/book/Make%20-%20Sensors%20-%20A%20Hands-On%20Primer%20for%20Monitoring%20the%20Real%20World%20with%20Arduino%20and%20Raspberry%20Pi.epub)
+* Make a Raspberry Pi-Controlled Robot - Building a Rover with Python, Linux, Motors, and Sensors [[Download]](/book/Make%20a%20Raspberry%20Pi-Controlled%20Robot%20-%20Building%20a%20Rover%20with%20Python%2C%20Linux%2C%20Motors%2C%20and%20Sensors.epub)
+* Penetration Testing with Raspberry Pi - Second Edition [[Download]](/book/Penetration%20Testing%20with%20Raspberry%20Pi%20-%20Second%20Edition.pdf)
+* Practical Raspberry Pi [[Download]](/book/Practical%20Raspberry%20Pi.pdf)
+* Python Programming with Raspberry Pi Zero [[Download]](/book/Python%20Programming%20with%20Raspberry%20Pi%20Zero.pdf)
 * Raspberry Pi - A Quick-Start Guide [[Download]](/book/Raspberry%20Pi%20-%20A%20Quick-Start%20Guide.pdf)
 * Raspberry Pi Computer Architecture Essentials [[Download]](/book/Raspberry%20Pi%20Computer%20Architecture%20Essentials.pdf)
 * Raspberry Pi Cookbook - Software and Hardware Problems and Solutions - Second Edition [[Download]](/book/Raspberry%20Pi%20Cookbook%20-%20Software%20and%20Hardware%20Problems%20and%20Solutions%20-%20Second%20Edition.epub)
@@ -17,4 +26,6 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 * Raspberry Pi Hacks - Tips & Tools for Making Things with the Inexpensive Linux Computer [[Download]](/book/Raspberry%20Pi%20Hacks%20-%20Tips%20%26%20Tools%20for%20Making%20Things%20with%20the%20Inexpensive%20Linux%20Computer.pdf)
 * Raspberry Pi LED Blueprints [[Download]](/book/Raspberry%20Pi%20LED%20Blueprints.pdf)
 * Raspberry Pi User Guide - Fourth Edition [[Download]](/book/Raspberry%20Pi%20User%20Guide%20-%20Fourth%20Edition.pdf)
+* Sams Teach Yourself in 24 Hours - Python Programming for Raspberry Pi - Second Edition [[Download]](/book/Sams%20Teach%20Yourself%20in%2024%20Hours%20-%20Python%20Programming%20for%20Raspberry%20Pi%20-%20Second%20Edition.epub)
+* Smart Home Automation with Linux and Raspberry Pi [[Download]](/book/Smart%20Home%20Automation%20with%20Linux%20and%20Raspberry%20Pi.pdf)
 
